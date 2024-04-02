@@ -1,0 +1,6 @@
+/.env
+/dataset/
+/results/
+/waktaverse-gemma-ko-7b-it/
+/RAG.ipynb
+
