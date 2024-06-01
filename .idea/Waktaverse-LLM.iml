@@ -10,6 +10,7 @@
       <excludeFolder url="file://$MODULE_DIR$/wandb" />
       <excludeFolder url="file://$MODULE_DIR$/businesskim" />
       <excludeFolder url="file://$MODULE_DIR$/Waktaverse-Llama-3-KO-8B-Instruct-v2" />
+      <excludeFolder url="file://$MODULE_DIR$/Waktaverse-Llama-2-KO-7B-Instruct" />
     </content>
     <orderEntry type="jdk" jdkName="torch-env" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
