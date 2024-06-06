@@ -20,7 +20,6 @@ certifi @ file:///croot/certifi_1707229174982/work/certifi
 cffi @ file:///croot/cffi_1714483155441/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 click==8.1.7
-cohere==5.5.4
 comm @ file:///croot/comm_1709322850197/work
 contourpy==1.2.1
 cycler==0.12.1
@@ -175,14 +174,14 @@ terminado @ file:///work/ci_py311/terminado_1677696151350/work
 text-generation==0.7.0
 threadpoolctl==3.5.0
 tinycss2 @ file:///work/ci_py311/tinycss2_1676823757641/work
-tokenizers==0.15.2
+tokenizers==0.19.1
 torch==2.3.0
 torchaudio==2.3.0
 torchvision==0.18.0
 tornado @ file:///croot/tornado_1696936946304/work
 tqdm==4.66.4
 traitlets @ file:///work/ci_py311/traitlets_1676823305040/work
-transformers==4.41.0
+transformers==4.41.2
 triton==2.3.0
 trl==0.8.6
 types-requests==2.32.0.20240602
