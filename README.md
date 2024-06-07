@@ -45,17 +45,6 @@ It is designed to handle a variety of complex instructions and generate coherent
 }
 ```
 
-**Ko-Llama3-Luxia-8B**
-```
-@article{kollama3luxiamodelcard,
-  title={Ko Llama 3 Luxia Model Card},
-  author={AILabs@Saltux},
-  year={2024},
-  url={https://huggingface.co/saltlux/Ko-Llama3-Luxia-8B/blob/main/README.md}
-}
-```
-
-
 
 ## Model Card Authors
 
